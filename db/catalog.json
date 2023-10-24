@@ -2,21 +2,19 @@
   {
     "id": 1,
     "title": "Cep",
-    "edibility": "edible",
-    "image": "assets/images/cep.jpg",
-    "habitat": "coniferous and mixed forests",
+    "edibility": "Edible",
+    "image": "https://raw.githubusercontent.com/Nastasyma/mock-server-api-nastasyma/main/public/assets/images/cep.jpg",
+    "habitat": "Coniferous and mixed forests",
     "season": "June - September",
-    "use": "versatile",
     "description": "The most colorful representative of the mushroom kingdom. According to some sources, it earned its name because its flesh remains marbled white even after cooking."
   },
   {
     "id": 2,
     "title": "Chanterelle",
-    "edibility": "edible",
-    "image": "assets/images/chanterelle.jpg",
-    "habitat": "coniferous and mixed forests",
+    "edibility": "Edible",
+    "image": "https://raw.githubusercontent.com/Nastasyma/mock-server-api-nastasyma/main/public/assets/images/chanterelle.jpg",
+    "habitat": "Coniferous and mixed forests",
     "season": "June, August-October",
-    "use": "boiled, stewed, or fried",
     "description": "The chanterelle mushroom has a bright yellow-orange color. That's why these mushrooms can be seen from afar, making them easy to gather. However, in the autumn, they can be easily mistaken for yellow leaves."
   }
 ]
