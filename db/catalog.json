@@ -25,5 +25,14 @@
     "habitat": "Coniferous and mixed forests",
     "season": "June-November",
     "description": "The fly agaric - a classic representative of its kind, it is this mushroom that is meant when the common name is mentioned. Fortunately, the characteristic appearance helps distinguish the fruiting bodies of this mushroom from other dangerous species."
+  },
+  {
+    "id": 4,
+    "title": "Rough boletus",
+    "edibility": "Edible",
+    "image": "https://raw.githubusercontent.com/Nastasyma/mock-server-api-nastasyma/main/public/assets/images/rough-boletus.jpg",
+    "habitat": "Deciduous and mixed forests",
+    "season": "August-September",
+    "description": "The rough boletus - edible autumn mushrooms with a quite attractive appearance. You can gather them almost until the snowfall."
   }
 ]
