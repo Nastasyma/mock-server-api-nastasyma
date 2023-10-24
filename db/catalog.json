@@ -16,5 +16,14 @@
     "habitat": "Coniferous and mixed forests",
     "season": "June, August-October",
     "description": "The chanterelle mushroom has a bright yellow-orange color. That's why these mushrooms can be seen from afar, making them easy to gather. However, in the autumn, they can be easily mistaken for yellow leaves."
+  },
+  {
+    "id": 3,
+    "title": "Fly agaric",
+    "edibility": "Poisonous",
+    "image": "https://raw.githubusercontent.com/Nastasyma/mock-server-api-nastasyma/main/public/assets/images/fly-agaric.jpg",
+    "habitat": "Coniferous and mixed forests",
+    "season": "June-November",
+    "description": "The fly agaric - a classic representative of its kind, it is this mushroom that is meant when the common name is mentioned. Fortunately, the characteristic appearance helps distinguish the fruiting bodies of this mushroom from other dangerous species."
   }
 ]
