@@ -34,5 +34,32 @@
     "habitat": "Deciduous and mixed forests",
     "season": "August-September",
     "description": "The rough boletus - edible autumn mushrooms with a quite attractive appearance. You can gather them almost until the snowfall."
+  },
+  {
+    "id": 5,
+    "title": "Russula",
+    "edibility": "Edible",
+    "image": "https://raw.githubusercontent.com/Nastasyma/mock-server-api-nastasyma/main/public/assets/images/russula.jpg",
+    "habitat": "Ubiquitous",
+    "season": "June-November",
+    "description": "Russula mushrooms - one of the most common mushrooms. They grow practically in any forests, both individually and in large groups."
+  },
+  {
+    "id": 6,
+    "title": "Bracket fungus",
+    "edibility": "Inedible",
+    "image": "https://raw.githubusercontent.com/Nastasyma/mock-server-api-nastasyma/main/public/assets/images/bracket-fungus.jpg",
+    "habitat": "Deciduous and mixed forests",
+    "season": "May-October",
+    "description": "The mycelium of the bracket fungus is located inside the tree, and only the fruiting bodies are visible on the surface, tightly attached to the trunk. They resemble growths on the bark."
+  },
+  {
+    "id": 7,
+    "title": "Bitter bolete",
+    "edibility": "Inedible",
+    "image": "https://raw.githubusercontent.com/Nastasyma/mock-server-api-nastasyma/main/public/assets/images/bitter-bolete.jpg",
+    "habitat": "Coniferous forests",
+    "season": "June-October",
+    "description": "The bitter bolete is not of interest to mushroom pickers because it cannot be consumed due to its strong bitterness. However, it is still important to know about this mushroom species to avoid mistaking it for other types."
   }
 ]
