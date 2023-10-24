@@ -61,5 +61,14 @@
     "habitat": "Coniferous forests",
     "season": "June-October",
     "description": "The bitter bolete is not of interest to mushroom pickers because it cannot be consumed due to its strong bitterness. However, it is still important to know about this mushroom species to avoid mistaking it for other types."
-  }
+  },
+  {
+    "id": 8,
+    "title": "Orange-cap boletus",
+    "edibility": "Edible",
+    "image": "https://raw.githubusercontent.com/Nastasyma/mock-server-api-nastasyma/main/public/assets/images/orange-cap-boletus.jpg",
+    "habitat": "Deciduous and mixed forests",
+    "season": "June-October",
+    "description": "Orange-cap boletus, edible mushroom, grows in mixed forests, its mycorrhiza is associated with birch trees. It is often found in birch forests or near birch trees."
+  },
 ]
