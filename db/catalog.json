@@ -6,7 +6,7 @@
     "image": "https://raw.githubusercontent.com/Nastasyma/mock-server-api-nastasyma/main/public/assets/images/cep.jpg",
     "habitat": "Coniferous and mixed forests",
     "season": "June - September",
-    "description": "The most colorful representative of the mushroom kingdom. According to some sources, it earned its name because its flesh remains marbled white even after cooking."
+    "description": "The most colorful representative of the mushroom kingdom. According to some sources, it earned its name because its flesh remains marbled white even after cooking. Cep (Boletus edulis) is a type of edible mushroom that is highly prized for its flavour and culinary uses. It is also known by various other names, including king bolete, penny bun, and porcino mushroom. The term 'cep' is more commonly used in the UK and other European countries, while 'porcini' is the Italian name for the mushroom."
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "image": "https://raw.githubusercontent.com/Nastasyma/mock-server-api-nastasyma/main/public/assets/images/chanterelle.jpg",
     "habitat": "Coniferous and mixed forests",
     "season": "June, August-October",
-    "description": "The chanterelle mushroom has a bright yellow-orange color. That's why these mushrooms can be seen from afar, making them easy to gather. However, in the autumn, they can be easily mistaken for yellow leaves."
+    "description": "The chanterelle mushroom has a bright yellow-orange color. That's why these mushrooms can be seen from afar, making them easy to gather. However, in the autumn, they can be easily mistaken for yellow leaves. The Chanterelle mushroom is possibly one of the best eating mushrooms in the world, in my opinion only second to the fresh penny bun otherwise known as a cep. But it does have a close look-alike. In this article, we delve into the world of the chanterelle, exploring its unique features, culinary versatility, and differentiation from its lesser-known look-alike, the False Chanterelle."
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "image": "https://raw.githubusercontent.com/Nastasyma/mock-server-api-nastasyma/main/public/assets/images/fly-agaric.jpg",
     "habitat": "Coniferous and mixed forests",
     "season": "June-November",
-    "description": "The fly agaric - a classic representative of its kind, it is this mushroom that is meant when the common name is mentioned. Fortunately, the characteristic appearance helps distinguish the fruiting bodies of this mushroom from other dangerous species."
+    "description": "The fly agaric - a classic representative of its kind, it is this mushroom that is meant when the common name is mentioned. Fortunately, the characteristic appearance helps distinguish the fruiting bodies of this mushroom from other dangerous species. The Fly Agaric, scientifically known as Amanita muscaria, is an iconic mushroom, to say the least. It has appeared in fairy-tales, legends, on t-shirts, in artwork, and, of course, video games."
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "image": "https://raw.githubusercontent.com/Nastasyma/mock-server-api-nastasyma/main/public/assets/images/rough-boletus.jpg",
     "habitat": "Deciduous and mixed forests",
     "season": "August-September",
-    "description": "The rough boletus - edible autumn mushrooms with a quite attractive appearance. You can gather them almost until the snowfall."
+    "description": "The rough boletus - edible autumn mushrooms with a quite attractive appearance. You can gather them almost until the snowfall. Rough boletus is widespread in deciduous or mixed forests where there are birch trees. It can also be found in tundra and forest-tundra. It may grow near dwarf birch trees. Since in such cases it can even exceed the height of the plants, the mushroom is jokingly called 'overbirch bolete'"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "image": "https://raw.githubusercontent.com/Nastasyma/mock-server-api-nastasyma/main/public/assets/images/russula.jpg",
     "habitat": "Ubiquitous",
     "season": "June-November",
-    "description": "Russula mushrooms - one of the most common mushrooms. They grow practically in any forests, both individually and in large groups."
+    "description": "Russula mushrooms - one of the most common mushrooms. They grow practically in any forests, both individually and in large groups. Russula is a very large genus composed of around 750 worldwide species of ectomycorrhizal mushrooms. They are typically common, fairly large, and brightly colored – making them one of the most recognizable genera among mycologists and mushroom collectors."
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "image": "https://raw.githubusercontent.com/Nastasyma/mock-server-api-nastasyma/main/public/assets/images/bracket-fungus.jpg",
     "habitat": "Deciduous and mixed forests",
     "season": "May-October",
-    "description": "The mycelium of the bracket fungus is located inside the tree, and only the fruiting bodies are visible on the surface, tightly attached to the trunk. They resemble growths on the bark."
+    "description": "The mycelium of the bracket fungus is located inside the tree, and only the fruiting bodies are visible on the surface, tightly attached to the trunk. They resemble growths on the bark. Bracket fungi, or shelf fungi, are among the many groups of fungi in the phylum Basidiomycota."
   },
   {
     "id": 7,
@@ -69,6 +69,6 @@
     "image": "https://raw.githubusercontent.com/Nastasyma/mock-server-api-nastasyma/main/public/assets/images/orange-cap-boletus.jpg",
     "habitat": "Deciduous and mixed forests",
     "season": "June-October",
-    "description": "Orange-cap boletus, edible mushroom, grows in mixed forests, its mycorrhiza is associated with birch trees. It is often found in birch forests or near birch trees."
+    "description": "Orange-cap boletus, edible mushroom, grows in mixed forests, its mycorrhiza is associated with birch trees. It is often found in birch forests or near birch trees. Orange-cap boletus are widespread in temperate climate zones. For example, in the central part of Russia, Siberia, the Urals, and the Far East."
   }
 ]
