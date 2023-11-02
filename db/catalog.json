@@ -70,5 +70,23 @@
     "habitat": "Deciduous and mixed forests",
     "season": "June-October",
     "description": "Orange-cap boletus, edible mushroom, grows in mixed forests, its mycorrhiza is associated with birch trees. It is often found in birch forests or near birch trees. Orange-cap boletus are widespread in temperate climate zones. For example, in the central part of Russia, Siberia, the Urals, and the Far East."
+  },
+  {
+    "id": 9,
+    "title": "Saffron milk cap",
+    "edibility": "Edible",
+    "image": "https://raw.githubusercontent.com/Nastasyma/mock-server-api-nastasyma/main/public/assets/images/saffron-milk-cap.jpg",
+    "habitat": "Mixed, young coniferous forests",
+    "season": "July-October",
+    "description": "The Saffron Milk Cap, formally known as Lactarius deliciosus, is a type of edible mushroom found widely distributed in Europe and parts of the United States. The mushroom is considered a delicacy in many European nations including Spain, where it is also known as Robellons, and Great Britain."
+  },
+  {
+    "id": 10,
+    "title": "Yellow boletus",
+    "edibility": "Edible",
+    "image": "https://raw.githubusercontent.com/Nastasyma/mock-server-api-nastasyma/main/public/assets/images/saffron-milk-cap.jpg",
+    "habitat": "Pine and mountain forests",
+    "season": "July-October",
+    "description": "Yellow boletus has a hat from 6 to 21 cm. In the beginning, in young boletus, it is convex, with time it becomes pillow-shaped or open. The skin on the hat can be smooth or velvety. The pulp is quite thick, has a bright yellow tint. On the cut, the color practically does not change."
   }
 ]
