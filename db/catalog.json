@@ -88,5 +88,50 @@
     "habitat": "Pine and mountain forests",
     "season": "July-October",
     "description": "Yellow boletus has a hat from 6 to 21 cm. In the beginning, in young boletus, it is convex, with time it becomes pillow-shaped or open. The skin on the hat can be smooth or velvety. The pulp is quite thick, has a bright yellow tint. On the cut, the color practically does not change."
+  },
+  {
+    "id": 11,
+    "title": "Death cap",
+    "edibility": "Poisonous",
+    "image": "https://raw.githubusercontent.com/Nastasyma/mock-server-api-nastasyma/main/public/assets/images/death-cap.jpg",
+    "habitat": "Mixed forests",
+    "season": "August-November",
+    "description": "Death cap is apoisonous mushroom of the family Amanitaceae (order Agaricales). It is the deadliest known mushroom to humans, responsible for the majority of mushroom poisonings worldwide, some of which prove to be fatal. Death caps are native to Europe, where they are widespread throughout the continent as well as on the British Isles."
+  },
+  {
+    "id": 12,
+    "title": "Oyster mushroom",
+    "edibility": "Edible",
+    "image": "https://raw.githubusercontent.com/Nastasyma/mock-server-api-nastasyma/main/public/assets/images/oyster-mushroom.jpg",
+    "habitat": "Deciduous forests",
+    "season": "April-October",
+    "description": "Oyster mushrooms grow in an oyster or fan shape, typically in shades of white, brown, or gray, though some varieties appear in other colors. Oyster mushrooms grow on the sides of dead trees or wood, and are a widely-cultivated edible mushroom. Oyster mushrooms have cream-colored gills, short stems, and flat caps. They range in size, but are typically medium to large, with caps that grow to be between 2 and 10 inches across. Their stems are tough and woody."
+  },
+  {
+    "id": 13,
+    "title": "Champignon",
+    "edibility": "Edible",
+    "image": "https://raw.githubusercontent.com/Nastasyma/mock-server-api-nastasyma/main/public/assets/images/champignon.jpg",
+    "habitat": "Open fields, meadows",
+    "season": "May-September",
+    "description": "Champignon mushrooms are far from the largest mushrooms you’ll find in the wild, but they’re not tiny either. Cremini mushrooms, or scientifically known as Agaricus bisporus, is on average about 1 to 2 inches in diameter. The mushroom is an edible mushroom that can be found growing in the grasslands of Eurasia and North America."
+  },
+  {
+    "id": 14,
+    "title": "Agaric honey",
+    "edibility": "Edible",
+    "image": "https://raw.githubusercontent.com/Nastasyma/mock-server-api-nastasyma/main/public/assets/images/agaric-honey.jpg",
+    "habitat": "Deciduous and mixed forests",
+    "season": "August-November",
+    "description": "Edible mushroom honey agaric – the popular name of edible mushrooms, which include a variety of other sorts of edible mushrooms honey agarics. An interesting name of the fungus “mushrooms” was on the way in which they are growing mushrooms (huge number of species grow on stumps and fallen trees)."
+  },
+  {
+    "id": 15,
+    "title": "Capercaillie",
+    "edibility": "Edible",
+    "image": "https://raw.githubusercontent.com/Nastasyma/mock-server-api-nastasyma/main/public/assets/images/capercaillie.jpg",
+    "habitat": "Deciduous and coniferous forests",
+    "season": "May-October",
+    "description": "Capercaillie mushrooms - an underestimated representative of the mushroom kingdom. Many enthusiasts of quiet hunting know nothing about it, so they pass it by and don't put it in their baskets. But this mushroom grows everywhere, it is pleasant to taste, has proven itself well in cooking, and is easily digested by the human body."
   }
 ]
